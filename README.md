@@ -1,5 +1,6 @@
 # 👋 Hi, I'm SALMAN KHAN
-Frontend Developer  (1+ yrs) | JavaScript, HTML, CSS |  React.js, Next.js, Tailwind CSS |  Focused on Building Fast, Modern Web Apps
+Passionate Frontend Developer with hands-on one years experience in HTML, CSS, JavaScript, React.js, and Node.js. Skilled in building responsive, user-centric web interfaces with a focus on performance and modern design
+
 
 ## 🚀 Skills & Technologies
 - 💻 HTML5, CSS3, JavaScript (ES6+)
@@ -25,4 +26,6 @@ Frontend Developer  (1+ yrs) | JavaScript, HTML, CSS |  React.js, Next.js, Tailw
 
 - LinkedIn: (https://www.linkedin.com/in/salman-khan-2a1849268/) 
 - Email: (salmankhan737400@gmail.com)
+- Contact: (+923118298343)
+  
 
