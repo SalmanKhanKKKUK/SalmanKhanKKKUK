@@ -26,6 +26,6 @@ Passionate Frontend Developer with hands-on one years experience in HTML, CSS, J
 
 - LinkedIn: (https://www.linkedin.com/in/salman-khan-2a1849268/) 
 - Email: (salmankhan737400@gmail.com)
-- Contact: (+923118298343)
+- Contact: (+92 311 8298343)
   
 
