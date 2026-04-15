@@ -1,6 +1,6 @@
 👋 Hi, I am Salman Khan
 
-Passionate MERN Stack Developer with 1+ years of experience in building modern, scalable, and user-focused web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in developing responsive interfaces and integrating backend services with a strong focus on performance and clean architecture.
+Forward-thinking Software Engineer with a Strong Background in Computer Science from Khushal Khan University. Fluent in MERN Stack (MongoDB, Express.js, React, Node.js), Next, Nest, HTML, CSS, JavaScript, TypeScript, JQuery, Tailwind CSS, Bootstrap, Context-APIs, Redux-Toolkit, React-Native. Adept at using JavaScript, Java and other programming languages to produce clean code. Dedicated to improving skills through hands-on learning and development work. Proficient in mobile and desktop development.
 
 🚀 SKILLS-PROFESSION
 
